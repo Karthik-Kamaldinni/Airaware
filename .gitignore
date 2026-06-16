@@ -1,0 +1,12 @@
+﻿# Build/artifacts
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.log
+
+# IDE / temp
+*.layout
+*.cbp
+*.user
