@@ -1,0 +1,594 @@
+State,CityID,CityName,Population,MonitoringStation,DistanceFromState,Pollutant,DangerousLevel,AlertMessage
+Delhi,DL01,New Delhi,21800000,Connaught Place Station,210.5,PM2.5,220,Unhealthy
+Delhi,DL02,Dwarka,5000000,Dwarka Sector 21 Station,205.3,PM10,230,Very Unhealthy
+Delhi,DL03,Vasant Kunj,1200000,Vasant Kunj Station,190.1,SO2,210,Unhealthy
+Delhi,DL04,Rohini,1000000,Rohini Sector 5 Station,180.4,NOx,200,Unhealthy
+Delhi,DL05,Mayur Vihar,800000,Mayur Vihar Phase 1 Station,185.2,PM2.5,215,Unhealthy
+Delhi,DL06,Karol Bagh,450000,Karol Bagh Station,170.3,CO2,190,Unhealthy
+Delhi,DL07,Shahdara,1200000,Shahdara Station,160.5,PM10,180,Unhealthy
+Delhi,DL08,Janakpuri,700000,Janakpuri West Station,145.2,SO2,175,Unhealthy
+Delhi,DL09,Pitampura,900000,Pitampura Station,130.4,NOx,160,Unhealthy
+Delhi,DL10,Saket,600000,Saket Station,135.6,PM2.5,150,Unhealthy
+Delhi,DL11,Lajpat Nagar,300000,Lajpat Nagar Station,120.7,CO2,140,Unhealthy
+Delhi,DL12,Mehrauli,800000,Mehrauli Station,125.8,PM10,155,Unhealthy
+Delhi,DL13,Okhla,900000,Okhla Station,115.9,SO2,145,Moderate
+Delhi,DL14,Azadpur,450000,Azadpur Station,110.2,NOx,130,Moderate
+Delhi,DL15,Moti Nagar,400000,Moti Nagar Station,100.3,PM2.5,120,Moderate
+
+Uttar Pradesh,UP01,Lucknow,2815600,Hazratganj Station,200.2,PM2.5,220,Unhealthy
+Uttar Pradesh,UP02,Kanpur,2760000,Kalyanpur Station,215.3,PM10,240,Very Unhealthy
+Uttar Pradesh,UP03,Agra,1580000,Sadar Bazaar Station,195.1,SO2,210,Unhealthy
+Uttar Pradesh,UP04,Varanasi,1200000,Godowlia Station,180.2,NOx,200,Unhealthy
+Uttar Pradesh,UP05,Allahabad,1400000,Civil Lines Station,185.3,PM2.5,210,Unhealthy
+Uttar Pradesh,UP06,Ghaziabad,2390000,Sanjay Nagar Station,230.5,CO2,250,Very Unhealthy
+Uttar Pradesh,UP07,Meerut,1500000,Meerut Station,170.4,PM10,190,Unhealthy
+Uttar Pradesh,UP08,Noida,650000,Sector 18 Station,165.3,SO2,190,Unhealthy
+Uttar Pradesh,UP09,Aligarh,900000,Aligarh Station,150.2,NOx,180,Unhealthy
+Uttar Pradesh,UP10,Moradabad,500000,Moradabad Station,130.4,PM2.5,150,Unhealthy
+Uttar Pradesh,UP11,Firozabad,300000,Firozabad Station,120.8,CO2,140,Unhealthy
+Uttar Pradesh,UP12,Mathura,450000,Mathura Station,125.3,PM10,150,Unhealthy
+Uttar Pradesh,UP13,Bareilly,400000,Bareilly Station,135.7,SO2,160,Unhealthy
+Uttar Pradesh,UP14,Sitapur,150000,Sitapur Station,110.2,NOx,130,Moderate
+Uttar Pradesh,UP15,Kanpur Nagar,180000,Kanpur Nagar Station,110.2,PM2.5,130,Moderate
+
+Madhya Pradesh,MP01,Bhopal,1840000,Habibganj Station,150.2,PM2.5,170,Unhealthy
+Madhya Pradesh,MP02,Indore,2700000,Rajwada Station,140.3,PM10,160,Unhealthy
+Madhya Pradesh,MP03,Gwalior,1000000,City Centre Station,130.4,SO2,150,Unhealthy
+Madhya Pradesh,MP04,Jabalpur,1450000,Jabalpur Station,120.5,NOx,140,Unhealthy
+Madhya Pradesh,MP05,Ujjain,500000,Ujjain Station,110.3,PM2.5,130,Moderate
+Madhya Pradesh,MP06,Sagar,300000,Sagar Station,105.2,CO2,120,Moderate
+Madhya Pradesh,MP07,Satna,250000,Satna Station,100.2,PM10,115,Moderate
+Madhya Pradesh,MP08,Khandwa,150000,Khandwa Station,95.4,SO2,110,Moderate
+Madhya Pradesh,MP09,Ratlam,150000,Ratlam Station,90.3,NOx,100,Moderate
+Madhya Pradesh,MP10,Chhindwara,200000,Chhindwara Station,85.2,PM2.5,95,Moderate
+Madhya Pradesh,MP11,Mandsaur,150000,Mandsaur Station,80.2,CO2,90,Good
+Madhya Pradesh,MP12,Shivpuri,100000,Shivpuri Station,75.3,PM10,85,Good
+Madhya Pradesh,MP13,Hoshangabad,180000,Hoshangabad Station,70.1,SO2,80,Good
+Madhya Pradesh,MP14,Betul,200000,Betul Station,65.3,NOx,75,Good
+Madhya Pradesh,MP15,Narsinghpur,180000,Narsinghpur Station,60.5,PM2.5,70,Good
+
+Chhattisgarh,CG01,Raipur,1030000,Raipur Station,180.4,PM2.5,200,Unhealthy
+Chhattisgarh,CG02,Bilaspur,330000,Bilaspur Station,170.3,PM10,190,Unhealthy
+Chhattisgarh,CG03,Durg,268000,Durg Station,160.2,SO2,180,Unhealthy
+Chhattisgarh,CG04,Korba,400000,Korba Station,150.4,NOx,170,Unhealthy
+Chhattisgarh,CG05,Raigarh,300000,Raigarh Station,140.5,PM2.5,160,Unhealthy
+Chhattisgarh,CG06,Jagdalpur,150000,Jagdalpur Station,130.3,CO2,150,Unhealthy
+Chhattisgarh,CG07,Ambikapur,120000,Ambikapur Station,120.1,PM10,140,Unhealthy
+Chhattisgarh,CG08,Bilaspur,200000,Bilaspur Station,115.5,SO2,130,Moderate
+Chhattisgarh,CG09,Raigarh,150000,Raigarh Station,110.3,NOx,120,Moderate
+Chhattisgarh,CG10,Korba,250000,Korba Station,105.4,PM2.5,115,Moderate
+Chhattisgarh,CG11,Dhamtari,100000,Dhamtari Station,95.3,CO2,105,Moderate
+Chhattisgarh,CG12,Rajim,80000,Rajim Station,90.4,PM10,100,Moderate
+Chhattisgarh,CG13,Bilaspur,120000,Bilaspur Station,85.7,SO2,95,Good
+Chhattisgarh,CG14,Ambikapur,130000,Ambikapur Station,80.2,NOx,90,Good
+Chhattisgarh,CG15,Raipur,300000,Raipur Station,75.1,PM2.5,85,Good
+
+Gujarat,GJ01,Ahemdabad,5570000,Sarkhej Station,190.2,PM2.5,210,Unhealthy
+Gujarat,GJ02,Surat,4470000,Surat Station,180.3,PM10,200,Unhealthy
+Gujarat,GJ03,Vadodara,2030000,Vadodara Station,170.4,SO2,190,Unhealthy
+Gujarat,GJ04,Rajkot,1700000,Rajkot Station,160.2,NOx,180,Unhealthy
+Gujarat,GJ05,Bhavnagar,600000,Bhavnagar Station,150.3,PM2.5,160,Unhealthy
+Gujarat,GJ06,Gandhinagar,200000,Gandhinagar Station,140.4,CO2,150,Unhealthy
+Gujarat,GJ07,Junagadh,300000,Junagadh Station,130.2,PM10,140,Unhealthy
+Gujarat,GJ08,Jamnagar,600000,Jamnagar Station,120.5,SO2,130,Unhealthy
+Gujarat,GJ09,Navsari,500000,Navsari Station,110.2,NOx,120,Moderate
+Gujarat,GJ10,Anand,180000,Anand Station,100.3,PM2.5,110,Moderate
+Gujarat,GJ11,Mehsana,150000,Mehsana Station,90.4,CO2,100,Moderate
+Gujarat,GJ12,Morbi,200000,Morbi Station,85.7,PM10,95,Moderate
+Gujarat,GJ13,Dholka,100000,Dholka Station,80.2,SO2,90,Moderate
+Gujarat,GJ14,Valsad,180000,Valsad Station,75.1,NOx,85,Good
+Gujarat,GJ15,Rajpipla,130000,Rajpipla Station,70.3,PM2.5,80,Good
+
+Uttarakhand,UK01,Dehradun,578000,Rajpur Road Station,150.4,PM2.5,170,Unhealthy
+Uttarakhand,UK02,Haridwar,650000,Haridwar Station,140.2,PM10,160,Unhealthy
+Uttarakhand,UK03,Nainital,180000,Nainital Station,130.4,SO2,150,Unhealthy
+Uttarakhand,UK04,Rishikesh,200000,Rishikesh Station,120.3,NOx,140,Unhealthy
+Uttarakhand,UK05,Haldwani,160000,Haldwani Station,110.2,PM2.5,130,Unhealthy
+Uttarakhand,UK06,Mussoorie,150000,Mussoorie Station,100.1,CO2,120,Unhealthy
+Uttarakhand,UK07,Pauri,250000,Pauri Station,95.4,PM10,110,Moderate
+Uttarakhand,UK08,Rudrapur,220000,Rudrapur Station,90.3,SO2,100,Moderate
+Uttarakhand,UK09,Kotdwar,120000,Kotdwar Station,85.2,NOx,90,Moderate
+Uttarakhand,UK10,Kashipur,200000,Kashipur Station,80.2,PM2.5,85,Moderate
+Uttarakhand,UK11,Bijnor,300000,Bijnor Station,75.3,CO2,80,Good
+Uttarakhand,UK12,Champawat,100000,Champawat Station,70.1,PM10,75,Good
+Uttarakhand,UK13,Almora,120000,Almora Station,65.2,SO2,70,Good
+Uttarakhand,UK14,Nanakmatta,80000,Nanakmatta Station,60.4,NOx,65,Good
+Uttarakhand,UK15,Ranikhet,50000,Ranikhet Station,55.3,PM2.5,60,Good
+
+Haryana,HR01,Chandigarh,1100000,Sector 17 Station,220.3,PM2.5,240,Very Unhealthy
+Haryana,HR02,Faridabad,1400000,Sector 15 Station,210.2,PM10,230,Very Unhealthy
+Haryana,HR03,Gurugram,1000000,MG Road Station,200.1,SO2,220,Unhealthy
+Haryana,HR04,Ambala,300000,Ambala Station,190.4,NOx,210,Unhealthy
+Haryana,HR05,Hisar,275000,Hisar Station,180.2,PM2.5,200,Unhealthy
+Haryana,HR06,Rohtak,380000,Rohtak Station,170.3,CO2,190,Unhealthy
+Haryana,HR07,Panipat,320000,Panipat Station,160.5,PM10,180,Unhealthy
+Haryana,HR08,Karnal,250000,Karnal Station,150.4,SO2,170,Unhealthy
+Haryana,HR09,Yamunanagar,150000,Yamunanagar Station,140.2,NOx,160,Unhealthy
+Haryana,HR10,Sonepat,200000,Sonepat Station,130.1,PM2.5,150,Unhealthy
+Haryana,HR11,Panchkula,400000,Panchkula Station,120.3,CO2,140,Unhealthy
+Haryana,HR12,Bhiwani,150000,Bhiwani Station,110.2,PM10,130,Unhealthy
+Haryana,HR13,Fatehabad,130000,Fatehabad Station,100.4,SO2,120,Moderate
+Haryana,HR14,Sirsa,100000,Sirsa Station,90.3,NOx,110,Moderate
+Haryana,HR15,Narnaul,80000,Narnaul Station,80.2,PM2.5,100,Moderate
+
+Punjab,PB01,Amritsar,1130000,Golden Temple Station,190.4,PM2.5,210,Unhealthy
+Punjab,PB02,Ludhiana,1550000,Fattuwal Station,180.2,PM10,200,Unhealthy
+Punjab,PB03,Jalandhar,850000,Jalandhar Station,170.3,SO2,190,Unhealthy
+Punjab,PB04,Patiala,500000,Patiala Station,160.1,NOx,180,Unhealthy
+Punjab,PB05,Mohali,370000,Mohali Station,150.5,PM2.5,170,Unhealthy
+Punjab,PB06,Bathinda,300000,Bathinda Station,140.4,CO2,160,Unhealthy
+Punjab,PB07,Hoshiarpur,200000,Hoshiarpur Station,130.2,PM10,150,Unhealthy
+Punjab,PB08,Moga,180000,Moga Station,120.1,SO2,140,Unhealthy
+Punjab,PB09,Rupnagar,150000,Rupnagar Station,110.2,NOx,130,Unhealthy
+Punjab,PB10,Patiala,450000,Patiala Station,100.3,PM2.5,120,Unhealthy
+Punjab,PB11,Fatehgarh Sahib,100000,Fatehgarh Sahib Station,90.4,CO2,110,Moderate
+Punjab,PB12,Tarn Taran,180000,Tarn Taran Station,80.2,PM10,100,Moderate
+Punjab,PB13,Bathinda,200000,Bathinda Station,70.3,SO2,90,Moderate
+Punjab,PB14,Gurdaspur,120000,Gurdaspur Station,60.2,NOx,80,Good
+Punjab,PB15,Jalandhar,800000,Jalandhar Station,55.4,PM2.5,70,Good
+
+West Bengal,WB01,Kolkata,4486679,Park Street Station,220.5,PM2.5,240,Very Unhealthy
+West Bengal,WB02,Howrah,1430000,Howrah Station,210.2,PM10,230,Very Unhealthy
+West Bengal,WB03,Durgapur,570000,Durgapur Station,200.3,SO2,220,Unhealthy
+West Bengal,WB04,Siliguri,200000,Siliguri Station,190.4,NOx,210,Unhealthy
+West Bengal,WB05,Burdwan,350000,Burdwan Station,180.5,PM2.5,200,Unhealthy
+West Bengal,WB06,Asansol,700000,Asansol Station,170.2,CO2,190,Unhealthy
+West Bengal,WB07,Bankura,400000,Bankura Station,160.3,PM10,180,Unhealthy
+West Bengal,WB08,Kolkata,1800000,Park Street Station,150.4,SO2,170,Unhealthy
+West Bengal,WB09,Midnapore,120000,Midnapore Station,140.1,NOx,160,Unhealthy
+West Bengal,WB10,Malda,500000,Malda Station,130.2,PM2.5,150,Unhealthy
+West Bengal,WB11,Jalpaiguri,400000,Jalpaiguri Station,120.3,CO2,140,Unhealthy
+West Bengal,WB12,Hooghly,300000,Hooghly Station,110.2,PM10,130,Unhealthy
+West Bengal,WB13,Kalyani,250000,Kalyani Station,100.1,SO2,120,Moderate
+West Bengal,WB14,Kolkata,1400000,Kolkata Station,90.2,NOx,110,Moderate
+West Bengal,WB15,Raghunathganj,70000,Raghunathganj Station,80.3,PM2.5,100,Moderate
+
+Bihar,BR01,Patna,1680000,Patna Station,210.3,PM2.5,220,Very Unhealthy
+Bihar,BR02,Muzaffarpur,400000,Muzaffarpur Station,200.2,PM10,210,Very Unhealthy
+Bihar,BR03,Katihar,350000,Katihar Station,190.1,SO2,200,Unhealthy
+Bihar,BR04,Bhagalpur,300000,Bhagalpur Station,180.3,NOx,190,Unhealthy
+Bihar,BR05,Purnia,200000,Purnia Station,170.2,PM2.5,180,Unhealthy
+Bihar,BR06,Gaya,200000,Gaya Station,160.4,CO2,170,Unhealthy
+Bihar,BR07,Chapra,120000,Chapra Station,150.3,PM10,160,Unhealthy
+Bihar,BR08,Sasaram,100000,Sasaram Station,140.1,SO2,150,Unhealthy
+Bihar,BR09,Samastipur,350000,Samastipur Station,130.2,NOx,140,Unhealthy
+Bihar,BR10,Begusarai,300000,Begusarai Station,120.1,PM2.5,130,Unhealthy
+Bihar,BR11,Vaishali,250000,Vaishali Station,110.4,CO2,120,Unhealthy
+Bihar,BR12,Buxar,150000,Buxar Station,100.3,PM10,110,Moderate
+Bihar,BR13,Motihari,120000,Motihari Station,90.2,SO2,100,Moderate
+Bihar,BR14,Khagaria,80000,Khagaria Station,80.1,NOx,90,Moderate
+Bihar,BR15,Siwan,60000,Siwan Station,70.3,PM2.5,80,Good
+
+Rajasthan,RJ01,Jaipur,3070000,Malviya Nagar Station,220.5,PM2.5,240,Very Unhealthy
+Rajasthan,RJ02,Jodhpur,1550000,Jodhpur Station,210.2,PM10,230,Very Unhealthy
+Rajasthan,RJ03,Udaipur,600000,Udaipur Station,200.3,SO2,220,Unhealthy
+Rajasthan,RJ04,Kota,1000000,Kota Station,190.4,NOx,210,Unhealthy
+Rajasthan,RJ05,Ajmer,500000,Ajmer Station,180.2,PM2.5,200,Unhealthy
+Rajasthan,RJ06,Bikaner,400000,Bikaner Station,170.3,CO2,190,Unhealthy
+Rajasthan,RJ07,Sikar,200000,Sikar Station,160.4,PM10,180,Unhealthy
+Rajasthan,RJ08,Alwar,350000,Alwar Station,150.1,SO2,170,Unhealthy
+Rajasthan,RJ09,Pali,270000,Pali Station,140.2,NOx,160,Unhealthy
+Rajasthan,RJ10,Churu,150000,Churu Station,130.3,PM2.5,150,Unhealthy
+Rajasthan,RJ11,Barmer,100000,Barmer Station,120.4,CO2,140,Unhealthy
+Rajasthan,RJ12,Nagaur,200000,Nagaur Station,110.3,PM10,130,Unhealthy
+Rajasthan,RJ13,Jhalawar,180000,Jhalawar Station,100.1,SO2,120,Moderate
+Rajasthan,RJ14,Bundi,150000,Bundi Station,90.2,NOx,110,Moderate
+Rajasthan,RJ15,Tonk,160000,Tonk Station,80.3,PM2.5,100,Moderate
+
+Maharashtra,MH01,Mumbai,12691836,Bandra-Kurla Complex Station,220.5,PM2.5,240,Very Unhealthy
+Maharashtra,MH02,Pune,3124458,Kothrud Station,210.2,PM10,230,Very Unhealthy
+Maharashtra,MH03,Nagpur,2400000,Nagpur Station,200.3,SO2,220,Unhealthy
+Maharashtra,MH04,Nashik,600000,Nashik Station,190.4,NOx,210,Unhealthy
+Maharashtra,MH05,Aurangabad,1200000,Aurangabad Station,180.3,PM2.5,200,Unhealthy
+Maharashtra,MH06,Kolhapur,550000,Kolhapur Station,170.4,CO2,190,Unhealthy
+Maharashtra,MH07,Solapur,400000,Solapur Station,160.5,PM10,180,Unhealthy
+Maharashtra,MH08,Thane,1800000,Thane Station,150.1,SO2,170,Unhealthy
+Maharashtra,MH09,Ratnagiri,150000,Ratnagiri Station,140.2,NOx,160,Unhealthy
+Maharashtra,MH10,Satara,180000,Satara Station,130.3,PM2.5,150,Unhealthy
+Maharashtra,MH11,Latur,500000,Latur Station,120.4,CO2,140,Unhealthy
+Maharashtra,MH12,Jalna,400000,Jalna Station,110.2,PM10,130,Unhealthy
+Maharashtra,MH13,Chandrapur,200000,Chandrapur Station,100.1,SO2,120,Moderate
+Maharashtra,MH14,Beed,150000,Beed Station,90.3,NOx,110,Moderate
+Maharashtra,MH15,Sindhudurg,120000,Sindhudurg Station,80.4,PM2.5,100,Moderate
+
+Tamil Nadu,TN01,Chennai,7049441,Mount Road Station,230.5,PM2.5,240,Very Unhealthy
+Tamil Nadu,TN02,Coimbatore,1000000,Coimbatore Station,220.3,PM10,230,Very Unhealthy
+Tamil Nadu,TN03,Madurai,1500000,Madurai Station,210.4,SO2,220,Unhealthy
+Tamil Nadu,TN04,Tiruchirappalli,920000,Tiruchirappalli Station,200.2,NOx,210,Unhealthy
+Tamil Nadu,TN05,Salem,1000000,Salem Station,190.3,PM2.5,200,Unhealthy
+Tamil Nadu,TN06,Erode,300000,Erode Station,180.4,CO2,190,Unhealthy
+Tamil Nadu,TN07,Tirunelveli,250000,Tirunelveli Station,170.5,PM10,180,Unhealthy
+Tamil Nadu,TN08,Vellore,1300000,Vellore Station,160.1,SO2,170,Unhealthy
+Tamil Nadu,TN09,Nagercoil,200000,Nagercoil Station,150.3,NOx,160,Unhealthy
+Tamil Nadu,TN10,Kanchipuram,300000,Kanchipuram Station,140.4,PM2.5,150,Unhealthy
+Tamil Nadu,TN11,Cuddalore,350000,Cuddalore Station,130.2,CO2,140,Unhealthy
+Tamil Nadu,TN12,Karur,200000,Karur Station,120.3,PM10,130,Unhealthy
+Tamil Nadu,TN13,Thanjavur,150000,Thanjavur Station,110.1,SO2,120,Moderate
+Tamil Nadu,TN14,Ramanathapuram,100000,Ramanathapuram Station,100.2,NOx,110,Moderate
+Tamil Nadu,TN15,Tirupur,500000,Tirupur Station,90.4,PM2.5,100,Moderate
+
+Andhra Pradesh,AP01,Visakhapatnam,2040000,Dondaparthy Station,210.3,PM2.5,220,Unhealthy
+Andhra Pradesh,AP02,Vijayawada,1400000,Benz Circle Station,200.2,PM10,210,Unhealthy
+Andhra Pradesh,AP03,Guntur,1500000,Guntur Station,190.1,SO2,200,Unhealthy
+Andhra Pradesh,AP04,Tirupati,450000,Tirupati Station,180.3,NOx,190,Unhealthy
+Andhra Pradesh,AP05,Kakinada,200000,Kakinada Station,170.2,PM2.5,180,Unhealthy
+Andhra Pradesh,AP06,Rajahmundry,500000,Rajahmundry Station,160.3,CO2,170,Unhealthy
+Andhra Pradesh,AP07,Nellore,600000,Nellore Station,150.4,PM10,160,Unhealthy
+Andhra Pradesh,AP08,Chittoor,700000,Chittoor Station,140.1,SO2,150,Unhealthy
+Andhra Pradesh,AP09,Anantapur,350000,Anantapur Station,130.2,NOx,140,Unhealthy
+Andhra Pradesh,AP10,Kurnool,450000,Kurnool Station,120.3,PM2.5,130,Unhealthy
+Andhra Pradesh,AP11,Srikakulam,100000,Srikakulam Station,110.4,CO2,120,Unhealthy
+Andhra Pradesh,AP12,Krishna,200000,Krishna Station,100.3,PM10,110,Moderate
+Andhra Pradesh,AP13,West Godavari,350000,West Godavari Station,90.1,SO2,100,Moderate
+Andhra Pradesh,AP14,East Godavari,1000000,East Godavari Station,80.5,NOx,90,Good
+Andhra Pradesh,AP15,Prakasam,500000,Prakasam Station,70.2,PM2.5,80,Good
+
+Telangana,TS01,Hyderabad,6809970,Banjara Hills Station,230.4,PM2.5,240,Very Unhealthy
+Telangana,TS02,Warangal,800000,Warangal Station,220.5,PM10,230,Very Unhealthy
+Telangana,TS03,Khammam,400000,Khammam Station,210.3,SO2,220,Unhealthy
+Telangana,TS04,Nizamabad,300000,Nizamabad Station,200.4,NOx,210,Unhealthy
+Telangana,TS05,Karimnagar,300000,Karimnagar Station,190.2,PM2.5,200,Unhealthy
+Telangana,TS06,Adilabad,150000,Adilabad Station,180.5,CO2,190,Unhealthy
+Telangana,TS07,Khagaznagar,120000,Khagaznagar Station,170.3,PM10,180,Unhealthy
+Telangana,TS08,Medak,250000,Medak Station,160.1,SO2,170,Unhealthy
+Telangana,TS09,Jagitial,100000,Jagitial Station,150.4,NOx,160,Unhealthy
+Telangana,TS10,Miryalaguda,350000,Miryalaguda Station,140.3,PM2.5,150,Unhealthy
+Telangana,TS11,Suryapet,200000,Suryapet Station,130.2,CO2,140,Unhealthy
+Telangana,TS12,Nagarkurnool,150000,Nagarkurnool Station,120.1,PM10,130,Unhealthy
+Telangana,TS13,Medchal,500000,Medchal Station,110.4,SO2,120,Moderate
+Telangana,TS14,Jagadgirigutta,100000,Jagadgirigutta Station,100.3,NOx,110,Moderate
+Telangana,TS15,Shamshabad,600000,Shamshabad Station,90.4,PM2.5,100,Moderate
+
+Kerala,KL01,Thiruvananthapuram,957730,MG Road Station,150.2,PM2.5,160,Unhealthy
+Kerala,KL02,Kochi,601574,Marine Drive Station,140.3,PM10,150,Unhealthy
+Kerala,KL03,Kozhikode,436500,Kozhikode Station,130.4,SO2,140,Unhealthy
+Kerala,KL04,Thrissur,315000,Thrissur Station,120.5,NOx,130,Unhealthy
+Kerala,KL05,Malappuram,1280000,Malappuram Station,110.3,PM2.5,120,Moderate
+Kerala,KL06,Kottayam,508000,Kottayam Station,100.2,CO2,110,Moderate
+Kerala,KL07,Alappuzha,175000,Alappuzha Station,90.3,PM10,100,Moderate
+Kerala,KL08,Palakkad,270000,Palakkad Station,80.4,SO2,90,Moderate
+Kerala,KL09,Wayanad,780000,Wayanad Station,70.5,NOx,80,Good
+Kerala,KL10,Idukki,300000,Idukki Station,60.3,PM2.5,70,Good
+Kerala,KL11,Kannur,200000,Kannur Station,50.4,CO2,60,Good
+Kerala,KL12,Pathanamthitta,800000,Pathanamthitta Station,40.5,PM10,50,Good
+Kerala,KL13,Kollam,400000,Kollam Station,30.6,SO2,40,Good
+Kerala,KL14,Varkala,100000,Varkala Station,20.7,NOx,30,Good
+Kerala,KL15,Punalur,150000,Punalur Station,10.8,PM2.5,20,Good
+
+Odisha,OD01,Bhubaneswar,837737,Kalinga Stadium Station,210.3,PM2.5,220,Unhealthy
+Odisha,OD02,Cuttack,607400,Badambadi Station,200.2,PM10,210,Unhealthy
+Odisha,OD03,Rourkela,500000,Rourkela Station,190.1,SO2,200,Unhealthy
+Odisha,OD04,Berhampur,360000,Berhampur Station,180.2,NOx,190,Unhealthy
+Odisha,OD05,Balasore,200000,Balasore Station,170.3,PM2.5,180,Unhealthy
+Odisha,OD06,Koraput,140000,Koraput Station,160.4,CO2,170,Unhealthy
+Odisha,OD07,Sambalpur,250000,Sambalpur Station,150.1,PM10,160,Unhealthy
+Odisha,OD08,Angul,150000,Angul Station,140.5,SO2,150,Unhealthy
+Odisha,OD09,Dhenkanal,200000,Dhenkanal Station,130.3,NOx,140,Unhealthy
+Odisha,OD10,Jharsuguda,170000,Jharsuguda Station,120.4,PM2.5,130,Unhealthy
+Odisha,OD11,Bargarh,180000,Bargarh Station,110.2,CO2,120,Unhealthy
+Odisha,OD12,Keonjhar,150000,Keonjhar Station,100.3,PM10,110,Moderate
+Odisha,OD13,Nayagarh,120000,Nayagarh Station,90.4,SO2,100,Moderate
+Odisha,OD14,Puri,150000,Puri Station,80.5,NOx,90,Moderate
+Odisha,OD15,Khorda,150000,Khorda Station,70.3,PM2.5,80,Moderate
+
+Assam,AS01,Guwahati,960000,Paltan Bazar Station,220.5,PM2.5,230,Very Unhealthy
+Assam,AS02,Silchar,150000,Silchar Station,210.3,PM10,220,Very Unhealthy
+Assam,AS03,Dibrugarh,150000,Dibrugarh Station,200.2,SO2,210,Unhealthy
+Assam,AS04,Nagaon,500000,Nagaon Station,190.1,NOx,200,Unhealthy
+Assam,AS05,Jorhat,150000,Jorhat Station,180.3,PM2.5,190,Unhealthy
+Assam,AS06,Tinsukia,150000,Tinsukia Station,170.4,CO2,180,Unhealthy
+Assam,AS07,Tezpur,100000,Tezpur Station,160.5,PM10,170,Unhealthy
+Assam,AS08,Bongaigaon,100000,Bongaigaon Station,150.2,SO2,160,Unhealthy
+Assam,AS09,Golaghat,120000,Golaghat Station,140.3,NOx,150,Unhealthy
+Assam,AS10,Barpeta,100000,Barpeta Station,130.4,PM2.5,140,Unhealthy
+Assam,AS11,Karimganj,120000,Karimganj Station,120.5,CO2,130,Unhealthy
+Assam,AS12,Sibsagar,100000,Sibsagar Station,110.3,PM10,120,Moderate
+Assam,AS13,Lakhimpur,150000,Lakhimpur Station,100.4,SO2,110,Moderate
+Assam,AS14,Hojai,100000,Hojai Station,90.3,NOx,100,Moderate
+Assam,AS15,Darrang,100000,Darrang Station,80.2,PM2.5,90,Moderate
+
+Meghalaya,ML01,Shillong,143000,Laitumkhrah Station,140.3,PM2.5,150,Unhealthy
+Meghalaya,ML02,Tura,75000,Tura Station,130.5,PM10,140,Unhealthy
+Meghalaya,ML03,Jowai,50000,Jowai Station,120.4,SO2,130,Unhealthy
+Meghalaya,ML04,Nongpoh,20000,Nongpoh Station,110.2,NOx,120,Unhealthy
+Meghalaya,ML05,Mawkyrwat,12000,Mawkyrwat Station,100.5,PM2.5,110,Moderate
+Meghalaya,ML06,Williamnagar,10000,Williamnagar Station,90.4,CO2,100,Moderate
+Meghalaya,ML07,Baghmara,10000,Baghmara Station,80.2,PM10,90,Moderate
+Meghalaya,ML08,Nongstoin,10000,Nongstoin Station,70.3,SO2,80,Good
+Meghalaya,ML09,Cherra,8000,Cherra Station,60.4,NOx,70,Good
+Meghalaya,ML10,Ranikor,8000,Ranikor Station,50.5,PM2.5,60,Good
+Meghalaya,ML11,Pynursla,10000,Pynursla Station,40.3,CO2,50,Good
+Meghalaya,ML12,Nongpoh,15000,Nongpoh Station,30.4,PM10,40,Good
+Meghalaya,ML13,Nongtalang,2000,Nongtalang Station,20.2,SO2,30,Good
+Meghalaya,ML14,Mawphlang,2000,Mawphlang Station,10.3,NOx,20,Good
+Meghalaya,ML15,Sohra,5000,Sohra Station,5.4,PM2.5,10,Good
+
+Manipur,MN01,Imphal,270000,Khuyathong Station,140.5,PM2.5,150,Unhealthy
+Manipur,MN02,Bishnupur,120000,Bishnupur Station,130.2,PM10,140,Unhealthy
+Manipur,MN03,Thoubal,100000,Thoubal Station,120.3,SO2,130,Unhealthy
+Manipur,MN04,Churachandpur,70000,Churachandpur Station,110.2,NOx,120,Unhealthy
+Manipur,MN05,Ukhrul,50000,Ukhrul Station,100.1,PM2.5,110,Moderate
+Manipur,MN06,Senapati,35000,Senapati Station,90.3,CO2,100,Moderate
+Manipur,MN07,Kangpokpi,35000,Kangpokpi Station,80.2,PM10,90,Moderate
+Manipur,MN08,Noney,30000,Noney Station,70.3,SO2,80,Good
+Manipur,MN09,Chandel,20000,Chandel Station,60.4,NOx,70,Good
+Manipur,MN10,Tamenglong,15000,Tamenglong Station,50.5,PM2.5,60,Good
+Manipur,MN11,Moreh,10000,Moreh Station,40.6,CO2,50,Good
+Manipur,MN12,Kakching,25000,Kakching Station,30.7,PM10,40,Good
+Manipur,MN13,Jiribam,20000,Jiribam Station,20.8,SO2,30,Good
+Manipur,MN14,Andro,10000,Andro Station,10.9,NOx,20,Good
+Manipur,MN15,Khongjom,8000,Khongjom Station,5.4,PM2.5,10,Good
+
+Nagaland,NL01,Kohima,300000,Kohima Station,150.3,PM2.5,160,Unhealthy
+Nagaland,NL02,Dimapur,400000,Dimapur Station,140.2,PM10,150,Unhealthy
+Nagaland,NL03,Mokokchung,100000,Mokokchung Station,130.4,SO2,140,Unhealthy
+Nagaland,NL04,Mon,70000,Mon Station,120.3,NOx,130,Unhealthy
+Nagaland,NL05,Zunheboto,50000,Zunheboto Station,110.2,PM2.5,120,Unhealthy
+Nagaland,NL06,Tuensang,35000,Tuensang Station,100.5,CO2,110,Moderate
+Nagaland,NL07,Phek,30000,Phek Station,90.2,PM10,100,Moderate
+Nagaland,NL08,Longleng,20000,Longleng Station,80.1,SO2,90,Moderate
+Nagaland,NL09,Wokha,25000,Wokha Station,70.3,NOx,80,Good
+Nagaland,NL10,Kiphire,10000,Kiphire Station,60.4,PM2.5,70,Good
+Nagaland,NL11,Shamator,15000,Shamator Station,50.3,CO2,60,Good
+Nagaland,NL12,Sadar,12000,Sadar Station,40.2,PM10,50,Good
+Nagaland,NL13,Pfütsero,8000,Pfütsero Station,30.3,SO2,40,Good
+Nagaland,NL14,Chümoukedima,6000,Chümoukedima Station,20.2,NOx,30,Good
+Nagaland,NL15,Tseminyu,4000,Tseminyu Station,10.1,PM2.5,20,Good
+
+Arunachal Pradesh,AR01,Itanagar,140000,Itanagar Station,160.5,PM2.5,170,Unhealthy
+Arunachal Pradesh,AR02,Tawang,70000,Tawang Station,150.2,PM10,160,Unhealthy
+Arunachal Pradesh,AR03,Pasighat,50000,Pasighat Station,140.4,SO2,150,Unhealthy
+Arunachal Pradesh,AR04,Naharlagun,35000,Naharlagun Station,130.1,NOx,140,Unhealthy
+Arunachal Pradesh,AR05,Ziro,30000,Ziro Station,120.2,PM2.5,130,Unhealthy
+Arunachal Pradesh,AR06,Bomdila,25000,Bomdila Station,110.4,CO2,120,Unhealthy
+Arunachal Pradesh,AR07,Tezu,20000,Tezu Station,100.3,PM10,110,Moderate
+Arunachal Pradesh,AR08,Aalo,15000,Aalo Station,90.2,SO2,100,Moderate
+Arunachal Pradesh,AR09,Seppa,12000,Seppa Station,80.5,NOx,90,Moderate
+Arunachal Pradesh,AR10,Rupa,10000,Rupa Station,70.4,PM2.5,80,Moderate
+Arunachal Pradesh,AR11,Sagalee,8000,Sagalee Station,60.3,CO2,70,Good
+Arunachal Pradesh,AR12,Dirang,7000,Dirang Station,50.2,PM10,60,Good
+Arunachal Pradesh,AR13,Koloriang,5000,Koloriang Station,40.1,SO2,50,Good
+Arunachal Pradesh,AR14,Namsai,3000,Namsai Station,30.4,NOx,40,Good
+Arunachal Pradesh,AR15,Khirkii,2000,Khirkii Station,20.2,PM2.5,30,Good
+
+Mizoram,MZ01,Aizawl,300000,Aizawl Station,150.3,PM2.5,160,Unhealthy
+Mizoram,MZ02,Lunglei,100000,Lunglei Station,140.2,PM10,150,Unhealthy
+Mizoram,MZ03,Champhai,70000,Champhai Station,130.4,SO2,140,Unhealthy
+Mizoram,MZ04,Serchhip,40000,Serchhip Station,120.5,NOx,130,Unhealthy
+Mizoram,MZ05,Kolasib,35000,Kolasib Station,110.3,PM2.5,120,Unhealthy
+Mizoram,MZ06,Mamit,30000,Mamit Station,100.2,CO2,110,Moderate
+Mizoram,MZ07,Siaha,25000,Siaha Station,90.3,PM10,100,Moderate
+Mizoram,MZ08,Kolasib,22000,Kolasib Station,80.4,SO2,90,Moderate
+Mizoram,MZ09,Hnahthial,15000,Hnahthial Station,70.5,NOx,80,Moderate
+Mizoram,MZ10,Lunglei,12000,Lunglei Station,60.6,PM2.5,70,Good
+Mizoram,MZ11,Serchhip,11000,Serchhip Station,50.7,CO2,60,Good
+Mizoram,MZ12,Saitual,10000,Saitual Station,40.8,PM10,50,Good
+Mizoram,MZ13,Khawzawl,8000,Khawzawl Station,30.9,SO2,40,Good
+Mizoram,MZ14,Tlabung,7000,Tlabung Station,20.4,NOx,30,Good
+Mizoram,MZ15,Zokhawthar,5000,Zokhawthar Station,10.6,PM2.5,20,Good
+
+Tripura,TR01,Agartala,600000,Agartala Station,160.4,PM2.5,170,Unhealthy
+Tripura,TR02,Udaipur,100000,Udaipur Station,150.3,PM10,160,Unhealthy
+Tripura,TR03,Dharmanagar,70000,Dharmanagar Station,140.2,SO2,150,Unhealthy
+Tripura,TR04,Ambassa,60000,Ambassa Station,130.1,NOx,140,Unhealthy
+Tripura,TR05,Kailashahar,50000,Kailashahar Station,120.5,PM2.5,130,Unhealthy
+Tripura,TR06,Belonia,40000,Belonia Station,110.4,CO2,120,Unhealthy
+Tripura,TR07,Agartala,35000,Agartala Station,100.3,PM10,110,Moderate
+Tripura,TR08,Sepahijala,30000,Sepahijala Station,90.2,SO2,100,Moderate
+Tripura,TR09,Khowai,25000,Khowai Station,80.1,NOx,90,Moderate
+Tripura,TR10,Sonamura,20000,Sonamura Station,70.4,PM2.5,80,Moderate
+Tripura,TR11,Teliamura,15000,Teliamura Station,60.3,CO2,70,Good
+Tripura,TR12,Kakraban,12000,Kakraban Station,50.5,PM10,60,Good
+Tripura,TR13,Amarpur,10000,Amarpur Station,40.7,SO2,50,Good
+Tripura,TR14,Kamalanagar,9000,Kamalanagar Station,30.9,NOx,40,Good
+Tripura,TR15,Bagma,7000,Bagma Station,20.8,PM2.5,30,Good
+
+Sikkim,SK01,Gangtok,200000,Gangtok Station,150.1,PM2.5,160,Unhealthy
+Sikkim,SK02,Namchi,80000,Namchi Station,140.2,PM10,150,Unhealthy
+Sikkim,SK03,Mangan,35000,Mangan Station,130.4,SO2,140,Unhealthy
+Sikkim,SK04,Rangpo,30000,Rangpo Station,120.5,NOx,130,Unhealthy
+Sikkim,SK05,Jorethang,25000,Jorethang Station,110.3,PM2.5,120,Unhealthy
+Sikkim,SK06,Gyalshing,20000,Gyalshing Station,100.2,CO2,110,Moderate
+Sikkim,SK07,Pelling,15000,Pelling Station,90.1,PM10,100,Moderate
+Sikkim,SK08,Rimbi,12000,Rimbi Station,80.3,SO2,90,Moderate
+Sikkim,SK09,Lachung,10000,Lachung Station,70.5,NOx,80,Moderate
+Sikkim,SK10,Mangan,8000,Mangan Station,60.2,PM2.5,70,Good
+Sikkim,SK11,Chungthang,6000,Chungthang Station,50.3,CO2,60,Good
+Sikkim,SK12,Singhik,5000,Singhik Station,40.5,PM10,50,Good
+Sikkim,SK13,Lachen,4000,Lachen Station,30.7,SO2,40,Good
+Sikkim,SK14,Rangpo,3000,Rangpo Station,20.4,NOx,30,Good
+Sikkim,SK15,Bermiok,2000,Bermiok Station,10.2,PM2.5,20,Good
+
+Goa,GA01,Panaji,115000,Panaji Station,160.4,PM2.5,170,Unhealthy
+Goa,GA02,Margao,80000,Margao Station,150.3,PM10,160,Unhealthy
+Goa,GA03,Vasco,60000,Vasco Station,140.2,SO2,150,Unhealthy
+Goa,GA04,Mapusa,50000,Mapusa Station,130.4,NOx,140,Unhealthy
+Goa,GA05,Ponda,45000,Ponda Station,120.5,PM2.5,130,Unhealthy
+Goa,GA06,Cortalim,35000,Cortalim Station,110.3,CO2,120,Unhealthy
+Goa,GA07,Bicholim,30000,Bicholim Station,100.2,PM10,110,Moderate
+Goa,GA08,Quepem,25000,Quepem Station,90.3,SO2,100,Moderate
+Goa,GA09,Cavelossim,20000,Cavelossim Station,80.4,NOx,90,Moderate
+Goa,GA10,Aldona,15000,Aldona Station,70.5,PM2.5,80,Moderate
+Goa,GA11,Benaulim,12000,Benaulim Station,60.2,CO2,70,Good
+Goa,GA12,Canacona,10000,Canacona Station,50.1,PM10,60,Good
+Goa,GA13,Sanguem,8000,Sanguem Station,40.2,SO2,50,Good
+Goa,GA14,Caranzalem,7000,Caranzalem Station,30.3,NOx,40,Good
+Goa,GA15,Benaulim,6000,Benaulim Station,20.4,PM2.5,30,Good
+
+Jharkhand,JH01,Ranchi,1150000,Ranchi Station,160.4,PM2.5,170,Unhealthy
+Jharkhand,JH02,Jamshedpur,650000,Jamshedpur Station,150.3,PM10,160,Unhealthy
+Jharkhand,JH03,Dhanbad,500000,Dhanbad Station,140.2,SO2,150,Unhealthy
+Jharkhand,JH04,Bokaro,450000,Bokaro Station,130.3,NOx,140,Unhealthy
+Jharkhand,JH05,Hazaribagh,350000,Hazaribagh Station,120.4,PM2.5,130,Unhealthy
+Jharkhand,JH06,Giridih,200000,Giridih Station,110.2,CO2,120,Unhealthy
+Jharkhand,JH07,Deoghar,150000,Deoghar Station,100.3,PM10,110,Moderate
+Jharkhand,JH08,Dumka,100000,Dumka Station,90.2,SO2,100,Moderate
+Jharkhand,JH09,Chatra,80000,Chatra Station,80.1,NOx,90,Moderate
+Jharkhand,JH10,Latehar,60000,Latehar Station,70.3,PM2.5,80,Moderate
+Jharkhand,JH11,Pakur,50000,Pakur Station,60.2,CO2,70,Good
+Jharkhand,JH12,Raghunathganj,40000,Raghunathganj Station,50.3,PM10,60,Good
+Jharkhand,JH13,Lohardaga,30000,Lohardaga Station,40.1,SO2,50,Good
+Jharkhand,JH14,Bermo,25000,Bermo Station,30.2,NOx,40,Good
+Jharkhand,JH15,Gumla,20000,Gumla Station,20.3,PM2.5,30,Good
+
+Himachal Pradesh,HP01,Shimla,170000,Shimla Station,160.3,PM2.5,170,Unhealthy
+Himachal Pradesh,HP02,Kullu,70000,Kullu Station,150.4,PM10,160,Unhealthy
+Himachal Pradesh,HP03,Solan,60000,Solan Station,140.1,SO2,150,Unhealthy
+Himachal Pradesh,HP04,Dharamsala,45000,Dharamsala Station,130.3,NOx,140,Unhealthy
+Himachal Pradesh,HP05,Mandi,40000,Mandi Station,120.2,PM2.5,130,Unhealthy
+Himachal Pradesh,HP06,Hamirpur,35000,Hamirpur Station,110.1,CO2,120,Unhealthy
+Himachal Pradesh,HP07,Bilaspur,30000,Bilaspur Station,100.3,PM10,110,Moderate
+Himachal Pradesh,HP08,Chamba,25000,Chamba Station,90.4,SO2,100,Moderate
+Himachal Pradesh,HP09,Kangra,20000,Kangra Station,80.2,NOx,90,Moderate
+Himachal Pradesh,HP10,Nahan,15000,Nahan Station,70.1,PM2.5,80,Moderate
+Himachal Pradesh,HP11,Palampur,12000,Palampur Station,60.3,CO2,70,Good
+Himachal Pradesh,HP12,Chandigarh,10000,Chandigarh Station,50.2,PM10,60,Good
+Himachal Pradesh,HP13,Kasauli,8000,Kasauli Station,40.5,SO2,50,Good
+Himachal Pradesh,HP14,Paonta Sahib,7000,Paonta Sahib Station,30.6,NOx,40,Good
+Himachal Pradesh,HP15,Renuka,6000,Renuka Station,20.2,PM2.5,30,Good
+
+Jammu and Kashmir,JK01,Srinagar,1200000,Srinagar Station,160.5,PM2.5,170,Unhealthy
+Jammu and Kashmir,JK02,Jammu,700000,Jammu Station,150.3,PM10,160,Unhealthy
+Jammu and Kashmir,JK03,Anantnag,500000,Anantnag Station,140.2,SO2,150,Unhealthy
+Jammu and Kashmir,JK04,Baramulla,450000,Baramulla Station,130.4,NOx,140,Unhealthy
+Jammu and Kashmir,JK05,Pulwama,350000,Pulwama Station,120.3,PM2.5,130,Unhealthy
+Jammu and Kashmir,JK06,Kathua,300000,Kathua Station,110.2,CO2,120,Unhealthy
+Jammu and Kashmir,JK07,Kishtwar,250000,Kishtwar Station,100.4,PM10,110,Moderate
+Jammu and Kashmir,JK08,Udhampur,200000,Udhampur Station,90.1,SO2,100,Moderate
+Jammu and Kashmir,JK09,Rajouri,150000,Rajouri Station,80.5,NOx,90,Moderate
+Jammu and Kashmir,JK10,Doda,120000,Doda Station,70.3,PM2.5,80,Moderate
+Jammu and Kashmir,JK11,Poonch,100000,Poonch Station,60.2,CO2,70,Good
+Jammu and Kashmir,JK12,Kupwara,80000,Kupwara Station,50.1,PM10,60,Good
+Jammu and Kashmir,JK13,Ramban,70000,Ramban Station,40.2,SO2,50,Good
+Jammu and Kashmir,JK14,Reasi,60000,Reasi Station,30.3,NOx,40,Good
+Jammu and Kashmir,JK15,Banihal,50000,Banihal Station,20.2,PM2.5,30,Good
+
+Ladakh,LA01,Leh,200000,Leh Station,180.4,PM2.5,190,Unhealthy
+Ladakh,LA02,Kargil,150000,Kargil Station,170.3,PM10,180,Unhealthy
+Ladakh,LA03,Zanskar,50000,Zanskar Station,160.1,SO2,170,Unhealthy
+Ladakh,LA04,Nubra Valley,40000,Nubra Valley Station,150.2,NOx,160,Unhealthy
+Ladakh,LA05,Padum,30000,Padum Station,140.3,PM2.5,150,Unhealthy
+Ladakh,LA06,Diskit,25000,Diskit Station,130.2,CO2,140,Unhealthy
+Ladakh,LA07,Turtuk,20000,Turtuk Station,120.1,PM10,130,Moderate
+Ladakh,LA08,Pangong,15000,Pangong Station,110.4,SO2,120,Moderate
+Ladakh,LA09,Nubra,12000,Nubra Station,100.2,NOx,110,Moderate
+Ladakh,LA10,Choglamsar,10000,Choglamsar Station,90.5,PM2.5,100,Moderate
+Ladakh,LA11,Khaltsi,8000,Khaltsi Station,80.3,CO2,90,Moderate
+Ladakh,LA12,Khalsi,6000,Khalsi Station,70.2,PM10,80,Good
+Ladakh,LA13,Siachen,4000,Siachen Station,60.1,SO2,70,Good
+Ladakh,LA14,Shyok,3000,Shyok Station,50.4,NOx,60,Good
+Ladakh,LA15,Hemis,2000,Hemis Station,40.3,PM2.5,50,Good
+
+Chandigarh,CH01,Chandigarh,1100000,Sector 17 Station,175.5,PM2.5,180,Unhealthy
+Chandigarh,CH02,Panchkula,500000,Panchkula Station,165.3,PM10,170,Unhealthy
+Chandigarh,CH03,Mohali,150000,Mohali Station,155.2,SO2,160,Unhealthy
+Chandigarh,CH04,Kharar,120000,Kharar Station,145.1,NOx,150,Unhealthy
+Chandigarh,CH05,Zirakpur,100000,Zirakpur Station,135.4,PM2.5,140,Unhealthy
+Chandigarh,CH06,Dera Bassi,90000,Dera Bassi Station,125.2,CO2,130,Unhealthy
+Chandigarh,CH07,Chandigarh Cantt,80000,Chandigarh Cantt Station,115.5,PM10,120,Moderate
+Chandigarh,CH08,Mullanpur,70000,Mullanpur Station,105.2,SO2,110,Moderate
+Chandigarh,CH09,Brahm Sarovar,60000,Brahm Sarovar Station,95.3,NOx,100,Moderate
+Chandigarh,CH10,Manimajra,50000,Manimajra Station,85.4,PM2.5,90,Moderate
+Chandigarh,CH11,Sukhna Lake,40000,Sukhna Lake Station,75.2,CO2,80,Good
+Chandigarh,CH12,Sector 22,30000,Sector 22 Station,65.1,PM10,70,Good
+Chandigarh,CH13,Sector 33,20000,Sector 33 Station,55.4,SO2,60,Good
+Chandigarh,CH14,Sector 44,10000,Sector 44 Station,45.2,NOx,50,Good
+Chandigarh,CH15,Sector 56,5000,Sector 56 Station,35.3,PM2.5,40,Good
+
+Dadra and Nagar Haveli and Daman and Diu,DN01,Daman,130000,Daman Station,150.2,PM2.5,160,Unhealthy
+Dadra and Nagar Haveli and Daman and Diu,DN02,Diu,55000,Diu Station,140.3,PM10,150,Unhealthy
+Dadra and Nagar Haveli and Daman and Diu,DN03,Silvassa,90000,Silvassa Station,130.1,SO2,140,Unhealthy
+Dadra and Nagar Haveli and Daman and Diu,DN04,Amli,50000,Amli Station,120.2,NOx,130,Unhealthy
+Dadra and Nagar Haveli and Daman and Diu,DN05,Khanvel,20000,Khanvel Station,110.3,PM2.5,120,Unhealthy
+Dadra and Nagar Haveli and Daman and Diu,DN06,Moti Daman,10000,Moti Daman Station,100.4,CO2,110,Unhealthy
+Dadra and Nagar Haveli and Daman and Diu,DN07,Nani Daman,8000,Nani Daman Station,90.2,PM10,100,Moderate
+Dadra and Nagar Haveli and Daman and Diu,DN08,Magarwada,6000,Magarwada Station,80.1,SO2,90,Moderate
+Dadra and Nagar Haveli and Daman and Diu,DN09,Bhimpore,5000,Bhimpore Station,70.4,NOx,80,Moderate
+Dadra and Nagar Haveli and Daman and Diu,DN10,Devka Beach,4000,Devka Beach Station,60.2,PM2.5,70,Moderate
+Dadra and Nagar Haveli and Daman and Diu,DN11,Daman Ganga,3000,Daman Ganga Station,50.1,CO2,60,Good
+Dadra and Nagar Haveli and Daman and Diu,DN12,Saharpada,2000,Saharpada Station,40.3,PM10,50,Good
+Dadra and Nagar Haveli and Daman and Diu,DN13,Vangani,1000,Vangani Station,30.2,SO2,40,Good
+Dadra and Nagar Haveli and Daman and Diu,DN14,Nagarpalika,800,Nagarpalika Station,20.4,NOx,30,Good
+Dadra and Nagar Haveli and Daman and Diu,DN15,Barda,500,Barda Station,10.3,PM2.5,20,Good
+
+Lakshadweep,LK01,Kavaratti,100000,Kavaratti Station,140.5,PM2.5,150,Unhealthy
+Lakshadweep,LK02,Agatti,60000,Agatti Station,130.2,PM10,140,Unhealthy
+Lakshadweep,LK03,Amini,40000,Amini Station,120.3,SO2,130,Unhealthy
+Lakshadweep,LK04,Andrott,25000,Andrott Station,110.4,NOx,120,Unhealthy
+Lakshadweep,LK05,Kalapeni,15000,Kalapeni Station,100.1,PM2.5,110,Unhealthy
+Lakshadweep,LK06,Kadmat,10000,Kadmat Station,90.3,CO2,100,Unhealthy
+Lakshadweep,LK07,Suheli Par,7000,Suheli Par Station,80.5,PM10,90,Moderate
+Lakshadweep,LK08,Bennett,5000,Bennett Station,70.2,SO2,80,Moderate
+Lakshadweep,LK09,Minicoy,4000,Minicoy Station,60.3,NOx,70,Moderate
+Lakshadweep,LK10,Kiltan,3000,Kiltan Station,50.1,PM2.5,60,Moderate
+Lakshadweep,LK11,Chetlat,2000,Chetlat Station,40.4,CO2,50,Good
+Lakshadweep,LK12,Bitra,1000,Bitra Station,30.2,PM10,40,Good
+Lakshadweep,LK13,Kadhmat,800,Kadhmat Station,20.1,SO2,30,Good
+Lakshadweep,LK14,Amindivi,600,Amindivi Station,10.5,NOx,20,Good
+Lakshadweep,LK15,Kiltan Island,400,Kiltan Island Station,5.2,PM2.5,10,Good
+
+Pondicherry,PY01,Puducherry,950000,Puducherry Station,120.4,PM2.5,130,Unhealthy
+Pondicherry,PY02,Karaiyur,80000,Karaiyur Station,110.2,PM10,120,Unhealthy
+Pondicherry,PY03,Thirukkanur,70000,Thirukkanur Station,100.3,SO2,110,Unhealthy
+Pondicherry,PY04,Kalapet,60000,Kalapet Station,90.1,NOx,100,Moderate
+Pondicherry,PY05,Lawspet,50000,Lawspet Station,80.2,PM2.5,90,Moderate
+Pondicherry,PY06,Bharathi Park,40000,Bharathi Park Station,70.3,CO2,80,Moderate
+Pondicherry,PY07,Puducherry North,30000,Puducherry North Station,60.4,PM10,70,Moderate
+Pondicherry,PY08,Thattanchavady,20000,Thattanchavady Station,50.1,SO2,60,Good
+Pondicherry,PY09,Indira Gandhi Square,15000,Indira Gandhi Square Station,40.2,NOx,50,Good
+Pondicherry,PY10,Chinna Subba,10000,Chinna Subba Station,30.3,PM2.5,40,Good
+Pondicherry,PY11,Vanarapet,8000,Vanarapet Station,20.4,CO2,30,Good
+Pondicherry,PY12,Thiruvandarkoil,6000,Thiruvandarkoil Station,10.1,PM10,20,Good
+Pondicherry,PY13,Puducherry East,4000,Puducherry East Station,5.3,SO2,10,Good
+Pondicherry,PY14,Puducherry South,2000,Puducherry South Station,2.2,NOx,5,Good
+Pondicherry,PY15,Puducherry West,1000,Puducherry West Station,0.3,PM2.5,0,Good
+
+Delhi,DL01,Delhi,19000000,IIT Delhi Station,200.3,PM2.5,250,Very Unhealthy
+Delhi,DL02,New Delhi,11000000,Connaught Place Station,210.4,PM10,240,Very Unhealthy
+Delhi,DL03,Dwarka,500000,Dwarka Station,180.2,SO2,220,Unhealthy
+Delhi,DL04,Saket,450000,Saket Station,170.3,NOx,210,Unhealthy
+Delhi,DL05,Vasant Kunj,400000,Vasant Kunj Station,160.1,PM2.5,200,Unhealthy
+Delhi,DL06,Rohini,600000,Rohini Station,150.2,CO2,180,Unhealthy
+Delhi,DL07,Mundka,350000,Mundka Station,140.3,PM10,170,Unhealthy
+Delhi,DL08,Karol Bagh,300000,Karol Bagh Station,130.4,SO2,160,Unhealthy
+Delhi,DL09,Lajpat Nagar,250000,Lajpat Nagar Station,120.5,NOx,150,Unhealthy
+Delhi,DL10,Mayur Vihar,200000,Mayur Vihar Station,110.1,PM2.5,140,Unhealthy
+Delhi,DL11,Shalimar Bagh,150000,Shalimar Bagh Station,100.2,CO2,130,Unhealthy
+Delhi,DL12,Sarai Kale Khan,100000,Sarai Kale Khan Station,90.3,PM10,120,Moderate
+Delhi,DL13,Kalkaji,120000,Kalkaji Station,80.4,SO2,110,Moderate
+Delhi,DL14,Jasola,80000,Jasola Station,70.1,NOx,100,Moderate
+Delhi,DL15,Najafgarh,70000,Najafgarh Station,60.2,PM2.5,90,Moderate
+
+Uttar Pradesh,UP01,Lucknow,3500000,Hazratganj Station,160.4,PM2.5,180,Unhealthy
+Uttar Pradesh,UP02,Kanpur,2900000,Ganga Ghat Station,170.5,PM10,200,Unhealthy
+Uttar Pradesh,UP03,Varanasi,1200000,Kashi Vishwanath Station,150.3,SO2,190,Unhealthy
+Uttar Pradesh,UP04,Agra,1500000,Taj Mahal Station,140.2,NOx,180,Unhealthy
+Uttar Pradesh,UP05,Allahabad,1200000,Triveni Sangam Station,130.4,PM2.5,170,Unhealthy
+Uttar Pradesh,UP06,Ghaziabad,2200000,Raj Nagar Station,120.3,CO2,160,Unhealthy
+Uttar Pradesh,UP07,Meerut,1500000,Meerut City Station,110.5,PM10,150,Unhealthy
+Uttar Pradesh,UP08,Bareilly,500000,Bareilly City Station,100.2,SO2,140,Unhealthy
+Uttar Pradesh,UP09,Aligarh,800000,Aligarh Station,90.4,NOx,130,Unhealthy
+Uttar Pradesh,UP10,Mathura,400000,Mathura City Station,80.1,PM2.5,120,Moderate
+Uttar Pradesh,UP11,Rampur,300000,Rampur Station,70.3,CO2,110,Moderate
+Uttar Pradesh,UP12,Moradabad,200000,Moradabad City Station,60.4,PM10,100,Moderate
+Uttar Pradesh,UP13,Firozabad,250000,Firozabad Station,50.1,SO2,90,Moderate
+Uttar Pradesh,UP14,Saharanpur,300000,Saharanpur Station,40.3,NOx,80,Good
+Uttar Pradesh,UP15,Etawah,200000,Etawah City Station,30.5,PM2.5,70,Good
+
+Madhya Pradesh,MP01,Bhopal,2400000,Van Vihar Station,150.4,PM2.5,170,Unhealthy
+Madhya Pradesh,MP02,Indore,2000000,Indore Station,160.5,PM10,180,Unhealthy
+Madhya Pradesh,MP03,Gwalior,1500000,Gwalior Station,140.2,SO2,160,Unhealthy
+Madhya Pradesh,MP04,Jabalpur,1400000,Jabalpur Station,130.3,NOx,150,Unhealthy
+Madhya Pradesh,MP05,Ujjain,700000,Ujjain Station,120.4,PM2.5,140,Unhealthy
+Madhya Pradesh,MP06,Khandwa,600000,Khandwa Station,110.2,CO2,130,Unhealthy
+Madhya Pradesh,MP07,Sagar,500000,Sagar Station,100.1,PM10,120,Unhealthy
+Madhya Pradesh,MP08,Satna,400000,Satna Station,90.2,SO2,110,Unhealthy
+Madhya Pradesh,MP09,Dewas,300000,Dewas Station,80.3,NOx,100,Moderate
+Madhya Pradesh,MP10,Chhindwara,250000,Chhindwara Station,70.5,PM2.5,90,Moderate
+Madhya Pradesh,MP11,Rajgarh,150000,Rajgarh Station,60.4,CO2,80,Moderate
+Madhya Pradesh,MP12,Mandla,120000,Mandla Station,50.2,PM10,70,Good
+Madhya Pradesh,MP13,Rewa,100000,Rewa Station,40.5,SO2,60,Good
+Madhya Pradesh,MP14,Khargone,80000,Khargone Station,30.2,NOx,50,Good
+Madhya Pradesh,MP15,Shivpuri,60000,Shivpuri Station,20.1,PM2.5,40,Good
+
+
